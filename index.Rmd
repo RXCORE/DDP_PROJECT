@@ -58,35 +58,19 @@ shinyServer(
 
 ---
 
-## Question 1
-
-You left your house to visit a friend and you drove 40 kilometers West, then got on a highway and went 50 kilometers north.  There was a new road leading to your friends house directly.
-If you have travelled about 100 km from the old road, how long would you travel if you have taken the new road?
-
-
-1. 50 km
-2. 64 km
-3. 75 km
-4. 85 km
-
-
-
----
-
 ## References
 
 http://en.wikipedia.org/wiki/Pythagorean_theorem
 
 http://www.mathwarehouse.com/vectors/resultant-vector.php
 
----
+
+
 
 ## Thank you
 
 Happy Evaluating my simple project.
 
 Ron Chua
-
----
 
 
